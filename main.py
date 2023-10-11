@@ -1,7 +1,8 @@
 import openai
 
 #Adding your openAI secret Key
-openai.api_key = "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"
+openai.organization = "Personal"
+openai.api_key = "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"
 
 #Creating the chat openai model
 
